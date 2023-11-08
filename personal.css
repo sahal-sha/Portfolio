@@ -92,8 +92,8 @@ section{
 .home{
     position: relative;
     height: 100vh;
-    width: 100%;
-    background-image:url(""); 
+    width: 50%;
+    background-image:url("sahal.jpg"); 
     background-size: cover;
     background-position: center;
     display: flex;
